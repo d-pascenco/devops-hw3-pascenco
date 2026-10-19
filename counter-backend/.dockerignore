@@ -1,0 +1,10 @@
+# лишнее в образ не тащим
+.git
+.venv
+.cache
+.pytest_cache
+**/__pycache__
+dist
+*.tar.gz
+Dockerfile*
+.dockerignore
